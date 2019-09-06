@@ -1,6 +1,6 @@
 # Japanese Romanizer for Windows
 
-github.com/Darkleafin/Japanese-Romanizer
+from https://github.com/Darkleafin/Japanese-Romanizer
 
 ------
 
