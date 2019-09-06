@@ -40,7 +40,7 @@ Multiple pronunciations of the same Kanji character will be displayed, please ch
 
 There might be a few errors in the romanized text.
 
-Auxiliary words「は」and「へ」will be considered as「ha」and「he」, please modify them to「wa」and「e」.
+Auxiliary words「は」and「へ」will be considered as「ha」and「he」, please modify them to「wa」and「e」manually.
 
 ## 注意：
 
