@@ -7,6 +7,7 @@ open (STDOUT, ">out.html") || die ("open STDOUT failed");
 my $conv = Lingua::JA::Romanize::Japanese->new();
 printf( "<style type=\"text/css\">" );
 printf( "body{font-family:\"UD Digi Kyokasho N-R\";font-size:24;}" );
+# printf( "rb{font-family:\"UD Digi Kyokasho N-R\";font-size:24;}" );
 printf( "rt{font-family:\"Comic Sans MS\";font-size:16;} ");
 printf( "</style><body>" );
 while( <STDIN> ) {
