@@ -17,7 +17,8 @@ while( <STDIN> ) {
 		my( $raw, $ruby ) = @$pair;
 		$ruby =~ s/\//<br>/g;
 		if ( defined $ruby ) {
-			printf( "<ruby><rb>%s</rb><rt><center>%s</center></rt></ruby>", $raw, $ruby );
+			# printf( "<ruby><rb>%s</rb><rt><center>%s</center></rt></ruby>", $raw, $ruby );
+			printf( "<ruby>%s<rt>%s</rt></ruby>", $raw, $ruby );
 		} else {
 			printf( "%s", $raw );
 		}
