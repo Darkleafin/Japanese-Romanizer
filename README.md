@@ -1,16 +1,18 @@
 # Japanese Romanizer for Windows
 
-from [https://github.com/Darkleafin/Japanese-Romanizer](https://github.com/Darkleafin/Japanese-Romanizer)
+**For individual study purpose ONLY!!! This respository SHOULD HAVE BEEN a fork.**
+
+**Perl lib /Lingua/JA/Romanize/\* COPIED from [Kawanet\(Yusuke Kawasaki\)](https://github.com/kawanet/Lingua-JA-Romanize-Japanese)**.
 
 ------
 
 ## Description:
 
-A useful tool to romanize Japanese, which requires Perl interpreter to run properly. Translator is compiled from Kawanet's repositories.
+A useful tool to romanize Japanese, which requires Perl interpreter to run properly. Translator lib is copied from Kawanet.
 
 ## 简介：
 
-日语转罗马音工具，需要安装 Perl 解释器才能正常运行。转换器编译自 Kawanet 的仓库。
+日语转罗马音工具，需要安装 Perl 解释器才能正常运行。转换器库文件转载自 Kawanet 的仓库。
 
 ------
 
